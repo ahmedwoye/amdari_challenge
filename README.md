@@ -32,7 +32,7 @@ table stored in a database.
 
 ##  Rationale for the Project
 
- - This project mirrors a data engineering problem where:
+ **This project mirrors a data engineering problem where:**
  - Data is not clean and analytically acceptable
  - Input files may contain errors
  - Data must be made usable for downstream teams
