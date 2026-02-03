@@ -1,5 +1,5 @@
 # System Logs Analytics Pipeline - Eventify
-![screenshot of app](2tierDeployment.png)
+![screenshot of app](designimage.png)
 
 Eventify’s platform generates application log files capturing user actions such as logins,
 event creation,location, user device and errors. These logs are currently generated from
@@ -27,7 +27,8 @@ table stored in a database.
  - Parses and cleans log data
  -  Handles invalid or corrupt log entries gracefully
  -  Loads clean, structured events into a relational database
- - Produces an analytics-ready event table
+ - Produces an analytics-ready event tableepostairflow
+
  
 
 ##  Rationale for the Project
